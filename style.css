@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+
+.text {
+    text-align: center;
+    padding: 50px;
+}
+
+.image-frame img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 690px;
+    height: 60vh;
+    border-radius: 10px;
+}
+
+.arrows{
+    
+    backdrop-filter: blur(15px);
+    border-radius: 50px;
+    width: 100px;
+    height: 10vh;
+}
