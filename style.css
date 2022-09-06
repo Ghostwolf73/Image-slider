@@ -21,6 +21,10 @@ body {
     border-radius: 2rem;
 }
 
+.carousel input{
+    display: none;
+}
+
 .carousel>ul {
     margin: 0;
     padding: 0;
@@ -82,3 +86,4 @@ myBtns:focus {
 .myBtns.prev {
     left: 1rem;
 }
+
